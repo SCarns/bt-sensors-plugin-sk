@@ -46,4 +46,4 @@ class Ruuvi extends BTSensor{
         await this.device.disconnect()
     }
 }
-module.exports=LYWSD03MMC
+module.exports=RUUVI
